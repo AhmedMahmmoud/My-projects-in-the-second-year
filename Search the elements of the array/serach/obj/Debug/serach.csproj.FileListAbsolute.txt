@@ -1,0 +1,8 @@
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\bin\Debug\serach.exe.config
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\bin\Debug\serach.exe
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\bin\Debug\serach.pdb
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\obj\Debug\serach.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\obj\Debug\serach.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\obj\Debug\serach.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\obj\Debug\serach.exe
+E:\college of cs\second year\2nd term\OOP\task of section\serach\serach\obj\Debug\serach.pdb

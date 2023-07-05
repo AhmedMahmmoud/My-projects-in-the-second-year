@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a48b0764-8f16-4fc0-b320-50f031eca7fa": {
+      "ProjectGuid": "a48b0764-8f16-4fc0-b320-50f031eca7fa",
+      "DisplayName": "EO elements in array",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
