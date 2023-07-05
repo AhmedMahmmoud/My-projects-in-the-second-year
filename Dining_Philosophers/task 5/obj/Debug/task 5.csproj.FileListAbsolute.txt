@@ -1,0 +1,8 @@
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\bin\Debug\task 5.exe.config
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\bin\Debug\task 5.exe
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\bin\Debug\task 5.pdb
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\obj\Debug\task 5.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\obj\Debug\task 5.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\obj\Debug\task 5.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\obj\Debug\task 5.exe
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\task 5\task 5\obj\Debug\task 5.pdb

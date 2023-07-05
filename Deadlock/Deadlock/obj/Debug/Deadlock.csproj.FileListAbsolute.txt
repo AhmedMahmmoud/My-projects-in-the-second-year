@@ -1,0 +1,8 @@
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\bin\Debug\Deadlock.exe.config
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+E:\college of cs\second year\2nd term\Operating System(project)\Deadlock\Deadlock\obj\Debug\Deadlock.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cd18a62-630e-4546-be90-e24810d08382": {
+      "ProjectGuid": "7cd18a62-630e-4546-be90-e24810d08382",
+      "DisplayName": "first project from first section",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
