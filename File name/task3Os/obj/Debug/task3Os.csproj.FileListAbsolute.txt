@@ -1,0 +1,22 @@
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\bin\Debug\task3Os.exe.config
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\bin\Debug\task3Os.exe
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\bin\Debug\task3Os.pdb
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.Form1.resources
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.Properties.Resources.resources
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.GenerateResource.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.exe
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.pdb
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\bin\Debug\task3Os.exe.config
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\bin\Debug\task3Os.exe
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\bin\Debug\task3Os.pdb
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.AssemblyReference.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.SuggestedBindingRedirects.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.Form1.resources
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.Properties.Resources.resources
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.GenerateResource.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.csproj.CoreCompileInputs.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.exe
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\lab3\task3Os\task3Os\obj\Debug\task3Os.pdb

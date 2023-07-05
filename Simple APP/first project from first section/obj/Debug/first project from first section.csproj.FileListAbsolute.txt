@@ -1,0 +1,36 @@
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.exe.config
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.exe
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.pdb
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Form1.resources
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Properties.Resources.resources
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.GenerateResource.cache
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.exe
+E:\college of cs\second year\2nd term\operating system\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.pdb
+E:\college of cs\second year\2nd term\Operating System\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Form2.resources
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.exe.config
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.exe
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.pdb
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Form1.resources
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Form2.resources
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Properties.Resources.resources
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.GenerateResource.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.exe
+E:\college of cs\second year\2nd term\Operating System(project)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.pdb
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.exe.config
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.exe
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\bin\Debug\first project from first section.pdb
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.AssemblyReference.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.SuggestedBindingRedirects.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Form1.resources
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Form2.resources
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first_project_from_first_section.Properties.Resources.resources
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.GenerateResource.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.csproj.CoreCompileInputs.cache
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.exe
+E:\Ahmed Barakat\College of CS\Second year\2nd term\Operating System(done)\projects c#\first project from first section\first project from first section\obj\Debug\first project from first section.pdb

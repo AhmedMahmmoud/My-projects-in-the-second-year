@@ -1,0 +1,8 @@
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\bin\Debug\Buffer_Example.exe.config
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\bin\Debug\Buffer_Example.exe
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\bin\Debug\Buffer_Example.pdb
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\obj\Debug\Buffer_Example.csproj.AssemblyReference.cache
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\obj\Debug\Buffer_Example.csproj.SuggestedBindingRedirects.cache
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\obj\Debug\Buffer_Example.csproj.CoreCompileInputs.cache
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\obj\Debug\Buffer_Example.exe
+E:\college of cs\second year\2nd term\Operating System(done)\projects c#\sec 6\Buffer_Example\Buffer_Example\obj\Debug\Buffer_Example.pdb
